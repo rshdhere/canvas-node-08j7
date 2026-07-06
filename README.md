@@ -1,2 +1,10 @@
-# canvas-node-08j7
+# Anchor Lab
+
 make me a todo-app using nodejs
+
+## Getting started
+
+```bash
+npm install
+npm start
+```
